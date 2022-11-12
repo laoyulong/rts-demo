@@ -1,6 +1,5 @@
 namespace rts_demo {
-	public interface IUnit
-	{
+	public interface IUnit {
 		int Health { get; set; }
 		int MaxHealth { get; set; }
 	}
